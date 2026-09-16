@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <rect width="800" height="600" fill="#16294F" />
+  <g>
+    <line x1="65.9" y1="265.3" x2="566.2" y2="217.9" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="566.2" y1="217.9" x2="81.5" y2="144.9" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="81.5" y1="144.9" x2="139.6" y2="306.9" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="139.6" y1="306.9" x2="354.5" y2="200.3" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="354.5" y1="200.3" x2="390.3" y2="263.6" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="390.3" y1="263.6" x2="339.3" y2="64.1" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="339.3" y1="64.1" x2="193.1" y2="164.9" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <line x1="193.1" y1="164.9" x2="65.9" y2="265.3" stroke="#B8862E" stroke-width="1.25" stroke-opacity="0.55" />
+    <circle cx="65.9" cy="265.3" r="6.3" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="566.2" cy="217.9" r="8.8" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="81.5" cy="144.9" r="8.4" fill="#B8862E" fill-opacity="1" />
+    <circle cx="139.6" cy="306.9" r="7.0" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="354.5" cy="200.3" r="8.1" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="390.3" cy="263.6" r="7.8" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="339.3" cy="64.1" r="4.2" fill="#F7F5EF" fill-opacity="0.85" />
+    <circle cx="193.1" cy="164.9" r="5.1" fill="#B8862E" fill-opacity="1" />
+    
+  </g>
+  <g font-family="Inter, sans-serif" fill="#F7F5EF" fill-opacity="0.55">
+    <text x="24" y="576" font-size="15" letter-spacing="0.06em">PLACEHOLDER IMAGE</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BYU CSA mark">
+  <rect width="64" height="64" rx="12" fill="#0A1730" />
+  <g stroke="#B8862E" stroke-width="2.5" fill="none">
+    <path d="M18 40 L32 20 L46 40" />
+    <path d="M18 40 L46 40" />
+  </g>
+  <circle cx="18" cy="40" r="4" fill="#F7F5EF" />
+  <circle cx="32" cy="20" r="4" fill="#B8862E" />
+  <circle cx="46" cy="40" r="4" fill="#F7F5EF" />
+</svg>
